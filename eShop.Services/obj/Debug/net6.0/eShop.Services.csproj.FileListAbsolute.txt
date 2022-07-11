@@ -10,3 +10,15 @@ C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\
 C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\refint\eShop.Services.dll
 C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\eShop.Services.pdb
 C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\ref\eShop.Services.dll
+D:\Delete\.netcore\eShop.Services\bin\Debug\net6.0\eShop.Services.deps.json
+D:\Delete\.netcore\eShop.Services\bin\Debug\net6.0\eShop.Services.dll
+D:\Delete\.netcore\eShop.Services\bin\Debug\net6.0\eShop.Services.pdb
+D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\eShop.Services.csproj.AssemblyReference.cache
+D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\eShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\eShop.Services.AssemblyInfoInputs.cache
+D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\eShop.Services.AssemblyInfo.cs
+D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\eShop.Services.csproj.CoreCompileInputs.cache
+D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\eShop.Services.dll
+D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\refint\eShop.Services.dll
+D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\eShop.Services.pdb
+D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\ref\eShop.Services.dll
