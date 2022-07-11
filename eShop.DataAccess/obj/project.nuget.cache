@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4cW5DYeQb4Ayy/2lR6RIxgdupbkEunz2BUGYNnAG42gAqgzVMjabFYFEHcPyh07A/6E7snmBCKrDAF8ETqx9LA==",
+  "dgSpecHash": "GGYjnNP2xJsvdSg+XWxPCZIpKxOf5k+iZP+pQOGK/qr4fYU/7uwARRv4LOcP7RMP/3o4oyDI0vB7Va4H4ZtRFw==",
   "success": true,
-  "projectFilePath": "D:\\Delete\\.netcore\\eShop.DataAccess\\eShop.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.DataAccess\\eShop.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALIENWARE\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ALIENWARE\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
