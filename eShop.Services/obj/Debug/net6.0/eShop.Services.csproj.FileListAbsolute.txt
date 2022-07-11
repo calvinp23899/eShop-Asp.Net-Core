@@ -1,0 +1,12 @@
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\bin\Debug\net6.0\eShop.Services.deps.json
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\bin\Debug\net6.0\eShop.Services.dll
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\bin\Debug\net6.0\eShop.Services.pdb
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\eShop.Services.csproj.AssemblyReference.cache
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\eShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\eShop.Services.AssemblyInfoInputs.cache
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\eShop.Services.AssemblyInfo.cs
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\eShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\eShop.Services.dll
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\refint\eShop.Services.dll
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\eShop.Services.pdb
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.Services\obj\Debug\net6.0\ref\eShop.Services.dll
