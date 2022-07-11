@@ -1,0 +1,12 @@
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\bin\Debug\net6.0\eShop.DataAccess.deps.json
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\bin\Debug\net6.0\eShop.DataAccess.dll
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\bin\Debug\net6.0\eShop.DataAccess.pdb
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.AssemblyInfo.cs
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.dll
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\obj\Debug\net6.0\refint\eShop.DataAccess.dll
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.pdb
+C:\Users\ALIENWARE\Documents\eShop-Asp.Net-Core\eShop.DataAccess\obj\Debug\net6.0\ref\eShop.DataAccess.dll

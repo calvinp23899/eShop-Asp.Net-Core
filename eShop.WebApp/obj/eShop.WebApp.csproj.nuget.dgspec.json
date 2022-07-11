@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net Project\\Web MVC\\eShopSolution\\eShop.WebApp\\eShop.WebApp.csproj": {}
+    "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\eShop.WebApp.csproj": {}
   },
   "projects": {
-    "D:\\.Net Project\\Web MVC\\eShopSolution\\eShop.WebApp\\eShop.WebApp.csproj": {
+    "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\eShop.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net Project\\Web MVC\\eShopSolution\\eShop.WebApp\\eShop.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\eShop.WebApp.csproj",
         "projectName": "eShop.WebApp",
-        "projectPath": "D:\\.Net Project\\Web MVC\\eShopSolution\\eShop.WebApp\\eShop.WebApp.csproj",
+        "projectPath": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\eShop.WebApp.csproj",
         "packagesPath": "C:\\Users\\ALIENWARE\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net Project\\Web MVC\\eShopSolution\\eShop.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALIENWARE\\AppData\\Roaming\\NuGet\\NuGet.Config",
