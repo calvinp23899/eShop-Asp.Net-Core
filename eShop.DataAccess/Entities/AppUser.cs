@@ -1,4 +1,4 @@
-﻿using eShopSolution.Data.Entities;
+﻿using eShop.DataAccess.Entities;
 using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;

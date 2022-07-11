@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\eShop.WebApp.csproj": {}
+    "D:\\Delete\\.netcore\\eShop.WebApp\\eShop.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\eShop.WebApp.csproj": {
+    "D:\\Delete\\.netcore\\eShop.WebApp\\eShop.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\eShop.WebApp.csproj",
+        "projectUniqueName": "D:\\Delete\\.netcore\\eShop.WebApp\\eShop.WebApp.csproj",
         "projectName": "eShop.WebApp",
-        "projectPath": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\eShop.WebApp.csproj",
+        "projectPath": "D:\\Delete\\.netcore\\eShop.WebApp\\eShop.WebApp.csproj",
         "packagesPath": "C:\\Users\\ALIENWARE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.WebApp\\obj\\",
+        "outputPath": "D:\\Delete\\.netcore\\eShop.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALIENWARE\\AppData\\Roaming\\NuGet\\NuGet.Config",
