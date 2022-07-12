@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using eShop.DataAccess.EF;
 
@@ -11,9 +12,10 @@ using eShop.DataAccess.EF;
 namespace eShop.DataAccess.Migrations
 {
     [DbContext(typeof(eShopDBContext))]
-    partial class eShopDBContextModelSnapshot : ModelSnapshot
+    [Migration("20220712095239_SeedIdentityUser")]
+    partial class SeedIdentityUser
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

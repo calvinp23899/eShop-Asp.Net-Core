@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using eShop.DataAccess.EF;
 
@@ -11,9 +12,10 @@ using eShop.DataAccess.EF;
 namespace eShop.DataAccess.Migrations
 {
     [DbContext(typeof(eShopDBContext))]
-    partial class eShopDBContextModelSnapshot : ModelSnapshot
+    [Migration("20220712093519_AspNetCoreIdentityDatabase")]
+    partial class AspNetCoreIdentityDatabase
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -76,16 +78,6 @@ namespace eShop.DataAccess.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("AppRoles", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("537d9a49-e1d3-4777-9f49-66ae5e5c93e4"),
-                            ConcurrencyStamp = "7539edb4-bada-4690-ac60-b247e832f36f",
-                            Description = "Administrator role",
-                            Name = "admin",
-                            NormalizedName = "admin"
-                        });
                 });
 
             modelBuilder.Entity("eShop.DataAccess.Entities.AppUser", b =>
@@ -152,27 +144,6 @@ namespace eShop.DataAccess.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("AppUsers", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("29910f72-72a1-4b6b-92d1-dbe61d335b30"),
-                            AccessFailedCount = 0,
-                            ConcurrencyStamp = "47772b8f-c6ed-4cb9-925e-0ad9f1a7671b",
-                            Dob = new DateTime(2022, 12, 7, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Email = "phucle23899@gmail.com",
-                            EmailConfirmed = true,
-                            FirstName = "Phuc",
-                            LastName = "Le",
-                            LockoutEnabled = false,
-                            NormalizedEmail = "some-admin-email@nonce.fake",
-                            NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAEAACcQAAAAEGgkG9Lc4JfMxG78Io4e2aeVZp23s9BjWEx4Wu+5aoZLkQPdCrie/ixmVJsY2qekDw==",
-                            PhoneNumberConfirmed = false,
-                            SecurityStamp = "",
-                            TwoFactorEnabled = false,
-                            UserName = "admin"
-                        });
                 });
 
             modelBuilder.Entity("eShop.DataAccess.Entities.Cart", b =>
@@ -509,7 +480,7 @@ namespace eShop.DataAccess.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2022, 7, 12, 16, 52, 39, 17, DateTimeKind.Local).AddTicks(9854),
+                            DateCreated = new DateTime(2022, 7, 12, 16, 35, 18, 665, DateTimeKind.Local).AddTicks(2369),
                             OriginalPrice = 100000m,
                             Price = 200000m,
                             Stock = 0,
@@ -850,13 +821,6 @@ namespace eShop.DataAccess.Migrations
                     b.HasKey("UserId", "RoleId");
 
                     b.ToTable("AppUserRoles", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            UserId = new Guid("29910f72-72a1-4b6b-92d1-dbe61d335b30"),
-                            RoleId = new Guid("537d9a49-e1d3-4777-9f49-66ae5e5c93e4")
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<System.Guid>", b =>

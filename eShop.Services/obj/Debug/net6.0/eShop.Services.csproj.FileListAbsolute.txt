@@ -34,3 +34,15 @@ D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\eShop.Services.d
 D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\refint\eShop.Services.dll
 D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\eShop.Services.pdb
 D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\ref\eShop.Services.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\bin\Debug\net6.0\eShop.Services.deps.json
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\bin\Debug\net6.0\eShop.Services.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\bin\Debug\net6.0\eShop.Services.pdb
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.Services.csproj.AssemblyReference.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.Services.AssemblyInfoInputs.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.Services.AssemblyInfo.cs
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.Services.csproj.CoreCompileInputs.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.Services.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\refint\eShop.Services.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.Services.pdb
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\ref\eShop.Services.dll
