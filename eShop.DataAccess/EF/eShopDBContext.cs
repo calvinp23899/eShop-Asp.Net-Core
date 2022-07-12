@@ -1,5 +1,6 @@
 ﻿using eShop.DataAccess.Configuration;
 using eShop.DataAccess.Entities;
+using eShop.DataAccess.Extensions;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -47,8 +48,8 @@ namespace eShop.DataAccess.EF
             //modelBuilder.Entity<IdentityRoleClaim<Guid>>().ToTable("AppRoleClaims");
             //modelBuilder.Entity<IdentityUserToken<Guid>>().ToTable("AppUserTokens").HasKey(x => x.UserId);
 
-            ////Data seeding
-            //modelBuilder.Seed();
+            //Data seeding
+            modelBuilder.Seed();
             //base.OnModelCreating(modelBuilder);
         }
 

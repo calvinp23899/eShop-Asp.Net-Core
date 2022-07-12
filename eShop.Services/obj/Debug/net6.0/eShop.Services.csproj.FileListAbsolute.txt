@@ -22,3 +22,15 @@ D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\eShop.Services.dll
 D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\refint\eShop.Services.dll
 D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\eShop.Services.pdb
 D:\Delete\.netcore\eShop.Services\obj\Debug\net6.0\ref\eShop.Services.dll
+D:\.Net Project\Web MVC\aspcore\eShop.Services\bin\Debug\net6.0\eShop.Services.deps.json
+D:\.Net Project\Web MVC\aspcore\eShop.Services\bin\Debug\net6.0\eShop.Services.dll
+D:\.Net Project\Web MVC\aspcore\eShop.Services\bin\Debug\net6.0\eShop.Services.pdb
+D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\eShop.Services.csproj.AssemblyReference.cache
+D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\eShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\eShop.Services.AssemblyInfoInputs.cache
+D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\eShop.Services.AssemblyInfo.cs
+D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\eShop.Services.csproj.CoreCompileInputs.cache
+D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\eShop.Services.dll
+D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\refint\eShop.Services.dll
+D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\eShop.Services.pdb
+D:\.Net Project\Web MVC\aspcore\eShop.Services\obj\Debug\net6.0\ref\eShop.Services.dll

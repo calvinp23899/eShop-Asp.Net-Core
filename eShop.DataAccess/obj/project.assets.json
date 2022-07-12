@@ -2356,11 +2356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.DataAccess\\eShop.DataAccess.csproj",
+      "projectUniqueName": "D:\\.Net Project\\Web MVC\\aspcore\\eShop.DataAccess\\eShop.DataAccess.csproj",
       "projectName": "eShop.DataAccess",
-      "projectPath": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.DataAccess\\eShop.DataAccess.csproj",
+      "projectPath": "D:\\.Net Project\\Web MVC\\aspcore\\eShop.DataAccess\\eShop.DataAccess.csproj",
       "packagesPath": "C:\\Users\\ALIENWARE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.DataAccess\\obj\\",
+      "outputPath": "D:\\.Net Project\\Web MVC\\aspcore\\eShop.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALIENWARE\\AppData\\Roaming\\NuGet\\NuGet.Config",
