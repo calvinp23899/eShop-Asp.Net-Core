@@ -40,3 +40,17 @@ D:\.Net Project\Web MVC\aspcore\eShop.DataAccess\obj\Debug\net6.0\refint\eShop.D
 D:\.Net Project\Web MVC\aspcore\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.pdb
 D:\.Net Project\Web MVC\aspcore\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.genruntimeconfig.cache
 D:\.Net Project\Web MVC\aspcore\eShop.DataAccess\obj\Debug\net6.0\ref\eShop.DataAccess.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\bin\Debug\net6.0\eShop.DataAccess.deps.json
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\bin\Debug\net6.0\eShop.DataAccess.runtimeconfig.json
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\bin\Debug\net6.0\eShop.DataAccess.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\bin\Debug\net6.0\eShop.DataAccess.pdb
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.csproj.AssemblyReference.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.AssemblyInfoInputs.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.AssemblyInfo.cs
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\refint\eShop.DataAccess.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.pdb
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\eShop.DataAccess.genruntimeconfig.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.DataAccess\obj\Debug\net6.0\ref\eShop.DataAccess.dll

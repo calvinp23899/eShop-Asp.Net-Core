@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17G0fsixHFdD1SYtVXKz1on6un+oUcCaN0qnhxk6c2T9PZn20YKKGyaQ+1eIv3/Yi2dAilUdmv/WxqgZpjuZ1Q==",
+  "dgSpecHash": "mr26Gfli4gj1WXnhrr1p5U1lGEhmvGpjij6RY1N1BqZB1f1IWXRTfQb+OWD/StRPqWLzIfno/lIXEMT24IA2bw==",
   "success": true,
-  "projectFilePath": "D:\\.Net Project\\Web MVC\\aspcore\\eShop.Services\\eShop.Services.csproj",
+  "projectFilePath": "D:\\.Net Project\\ASP.NET 6\\New folder (2)\\eShop.Services\\eShop.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
