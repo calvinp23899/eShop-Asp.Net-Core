@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.Services\\eShop.Services.csproj",
+      "projectUniqueName": "D:\\.Net Project\\Web MVC\\aspcore\\eShop.Services\\eShop.Services.csproj",
       "projectName": "eShop.Services",
-      "projectPath": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.Services\\eShop.Services.csproj",
+      "projectPath": "D:\\.Net Project\\Web MVC\\aspcore\\eShop.Services\\eShop.Services.csproj",
       "packagesPath": "C:\\Users\\ALIENWARE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALIENWARE\\Documents\\eShop-Asp.Net-Core\\eShop.Services\\obj\\",
+      "outputPath": "D:\\.Net Project\\Web MVC\\aspcore\\eShop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALIENWARE\\AppData\\Roaming\\NuGet\\NuGet.Config",

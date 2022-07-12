@@ -50,3 +50,29 @@ D:\Delete\.netcore\eShop.WebApp\obj\Debug\net6.0\refint\eShop.WebApp.dll
 D:\Delete\.netcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.pdb
 D:\Delete\.netcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.genruntimeconfig.cache
 D:\Delete\.netcore\eShop.WebApp\obj\Debug\net6.0\ref\eShop.WebApp.dll
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\bin\Debug\net6.0\appsettings.json
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\bin\Debug\net6.0\eShop.WebApp.staticwebassets.runtime.json
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\bin\Debug\net6.0\eShop.WebApp.exe
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\bin\Debug\net6.0\eShop.WebApp.deps.json
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\bin\Debug\net6.0\eShop.WebApp.runtimeconfig.json
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\bin\Debug\net6.0\eShop.WebApp.dll
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\bin\Debug\net6.0\eShop.WebApp.pdb
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.csproj.AssemblyReference.cache
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.AssemblyInfoInputs.cache
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.AssemblyInfo.cs
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.csproj.CoreCompileInputs.cache
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.RazorAssemblyInfo.cache
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.RazorAssemblyInfo.cs
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\scopedcss\bundle\eShop.WebApp.styles.css
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\scopedcss\projectbundle\eShop.WebApp.bundle.scp.css
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.dll
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\refint\eShop.WebApp.dll
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.pdb
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\eShop.WebApp.genruntimeconfig.cache
+D:\.Net Project\Web MVC\aspcore\eShop.WebApp\obj\Debug\net6.0\ref\eShop.WebApp.dll
