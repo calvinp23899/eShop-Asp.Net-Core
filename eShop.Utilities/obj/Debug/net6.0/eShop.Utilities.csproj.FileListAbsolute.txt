@@ -1,0 +1,12 @@
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\bin\Debug\net6.0\eShop.Utilities.deps.json
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\bin\Debug\net6.0\eShop.Utilities.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\bin\Debug\net6.0\eShop.Utilities.pdb
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\obj\Debug\net6.0\eShop.Utilities.csproj.AssemblyReference.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\obj\Debug\net6.0\eShop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\obj\Debug\net6.0\eShop.Utilities.AssemblyInfoInputs.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\obj\Debug\net6.0\eShop.Utilities.AssemblyInfo.cs
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\obj\Debug\net6.0\eShop.Utilities.csproj.CoreCompileInputs.cache
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\obj\Debug\net6.0\eShop.Utilities.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\obj\Debug\net6.0\refint\eShop.Utilities.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\obj\Debug\net6.0\eShop.Utilities.pdb
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Utilities\obj\Debug\net6.0\ref\eShop.Utilities.dll
