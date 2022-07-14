@@ -46,3 +46,8 @@ D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.S
 D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\refint\eShop.Services.dll
 D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.Services.pdb
 D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\ref\eShop.Services.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\bin\Debug\net6.0\eShop.DataAccess.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\bin\Debug\net6.0\eShop.Utilities.dll
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\bin\Debug\net6.0\eShop.DataAccess.pdb
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\bin\Debug\net6.0\eShop.Utilities.pdb
+D:\.Net Project\ASP.NET 6\New folder (2)\eShop.Services\obj\Debug\net6.0\eShop.Services.csproj.CopyComplete
